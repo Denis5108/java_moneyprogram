@@ -1,6 +1,6 @@
 # java_moneyprogram
 # RUNNING THE TEST
-<img src="newSnip.PNG">
+<img src="program1.PNG">
 
 # DESCRIPTION
 Money program
