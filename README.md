@@ -3,7 +3,7 @@
 <img src="newSnip.PNG">
 
 # DESCRIPTION
-Student reigstration program.
+Money program
 
 # PROGRAM USED
 Java
